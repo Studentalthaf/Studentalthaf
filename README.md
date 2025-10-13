@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hay Evryone
 ## 👋 Hi there! I'm Althaf Jauhar  <br><br>I'm a passionate **Web Developer** and **System Analyst** who loves turning ideas into powerful, efficient, and elegant web applications.  <br>Specialized in **PHP (Laravel)**, **JavaScript (React / Inertia.js)**, and modern backend systems.
 
 
