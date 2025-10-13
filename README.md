@@ -1,8 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
 
 # 💫 Hay Everyone
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=30&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 ## 👋 Hi there!  <br><br>I'm a passionate **Web Developer** and **System Analyst** who loves turning ideas into powerful, efficient, and elegant web applications.  <br>Specialized in **PHP (Laravel)**, **JavaScript (React / Inertia.js)**, and modern backend systems.
 
 
