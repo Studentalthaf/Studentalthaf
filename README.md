@@ -1,5 +1,17 @@
 # 💫 About Me:
-## 👋 Hi there! I'm Althaf Jauhar  <br><br>I'm a passionate **Web Developer** and **System Analyst** who loves turning ideas into powerful, efficient, and elegant web applications.  <br>Specialized in **PHP (Laravel)**, **JavaScript (React / Inertia.js)**, and modern backend systems.  <br><br>🎯 **What I Do**<br>- 🔹 Build scalable web applications using Laravel, Next.Js and more <br>- 🔹 Develop interactive frontends with Inertia.js & React  <br>- 🔹 Design efficient database schemas and API structures  <br><br>💡 **A bit about me**<br>- 🎓 Bachelor's degree in Information Systems  <br>- 🧠 Certified **BNSP System Analyst & Computing Operator**  <br>- 🚀 Always exploring new tools, frameworks, and clean coding practices  <br><br>📫 **Let’s Connect**<br>- 📷 Instagram: [@_alauhar](https://instagram.com/_alauhar)  <br>- 🌐 Let's Connect: [althaf.site](https://althaf.site)  <br>- ✉️ Reach me at: `jauharalthaf@gmail.com`<br><br>> _“Code is more than syntax — it’s the art of solving real problems with logic and creativity.”_<br>
+## 👋 Hi there! I'm Althaf Jauhar  <br><br>I'm a passionate **Web Developer** and **System Analyst** who loves turning ideas into powerful, efficient, and elegant web applications.  <br>Specialized in **PHP (Laravel)**, **JavaScript (React / Inertia.js)**, and modern backend systems.
+
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Studentalthaf/Studentalthaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Studentalthaf/Studentalthaf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Studentalthaf/Studentalthaf/output/pacman-contribution-graph.svg">
+</picture>
+###
+
+
+<br><br>🎯 **What I Do**<br>- 🔹 Build scalable web applications using Laravel, Next.Js and more <br>- 🔹 Develop interactive frontends with Inertia.js & React  <br>- 🔹 Design efficient database schemas and API structures  <br><br>💡 **A bit about me**<br>- 🎓 Bachelor's degree in Information Systems  <br>- 🧠 Certified **BNSP System Analyst & Computing Operator**  <br>- 🚀 Always exploring new tools, frameworks, and clean coding practices  <br><br>📫 **Let’s Connect**<br>- 📷 Instagram: [@_alauhar](https://instagram.com/_alauhar)  <br>- 🌐 Let's Connect: [althaf.site](https://althaf.site)  <br>- ✉️ Reach me at: `jauharalthaf@gmail.com`<br><br>> _“Code is more than syntax — it’s the art of solving real problems with logic and creativity.”_<br>
 
 
 ## 🌐 Socials:
